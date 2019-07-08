@@ -1,0 +1,53 @@
+body {
+background-color: mistyrose;
+line-height: 1.6em;
+font-family: Georgia;
+
+}
+h1 {
+text-align: center;
+font-family: Pristina;
+font-size: 58px;
+color: maroon;		
+}
+.cursive{
+  font-family: cursive;
+}
+
+p {
+font-family: Calibri;
+font-size: 150%;
+}
+
+.description{
+font-family: Georgia;
+font-size: 160%;
+
+}
+
+h2, h3{
+text-align: center;
+font-family: Papyrus;
+color: darkturquoise;
+font-size: 30px;
+border-style: dotted;
+}
+
+#titleHeader{
+font-family: cursive;
+padding: 30px;
+font-size: 40px;
+color: maroon;
+
+}
+
+ul{
+font-family: Calibri;
+font-size: 25px;
+}
+
+
+
+
+
+
